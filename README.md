@@ -45,7 +45,9 @@ Each project repository provides its own documentation, downloads, platform requ
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/user-attachments/assets/6f7ebcc2-02c6-4402-98aa-871c7e78b23d">
-        <img src="https://github.com/user-attachments/assets/6f7ebcc2-02c6-4402-98aa-871c7e78b23d" alt="CAMT screenshot 2" width="260">
+        <img width="1905" height="1125" alt="gui" src="https://github.com/user-attachments/assets/df537926-c8af-44c3-9f97-2f2a57646133" />
+
+        <img src="https://github.com/user-attachments/assets/df537926-c8af-44c3-9f97-2f2a57646133" alt="GUI-FrameWork Builder screenshot 2" width="260">
       </a>
     </td>
     <td align="center" valign="middle">
