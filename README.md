@@ -1,42 +1,61 @@
 # CyberFirePulse
-### From Prompt Engineering to Functional Software
+### Ideas. Structured Prompts. Practical Software.
+**Android · Windows · Linux**
 
-**ENGLISH**
+**[English](#english) | [Nederlands](#nederlands)**
 
-## Innovation Through Prompt Engineering
+## English
 
-CyberFirePulse explores how structured prompts, technical expertise, and critical evaluation turn ideas into functional software. Prompt Engineering guides development, while human validation, testing, and iterative improvement help ensure useful and reliable results.
+CyberFirePulse brings together software for cybersecurity, technical education, development, and creative work. From mobile applications to desktop tools and security analysis platforms, the focus is on turning practical ideas into useful software.
 
-### Android Applications
+### Prompt Engineering at the Core
 
-- **[CameraWeerCoach](https://github.com/cyberfirepulse/Android/tree/main/CameraWeerCoach)** — Photography, weather, and educational tools.
-- **[BushCraft-Pro](https://github.com/cyberfirepulse/Android/tree/main/BushCraft-Pro)** — Bushcraft, outdoor skills, navigation, and nature.
-- **[Weer-Extremen](https://github.com/cyberfirepulse/Android/tree/main/Weer-Extremen)** — Extreme weather, natural hazards, and space weather.
+Development starts with a clear purpose. Prompt Engineering translates ideas, requirements, and technical decisions into structured instructions for AI-assisted development. Human expertise, critical review, testing, and iterative refinement guide the result from concept to working application.
 
-#### Weer-Extremen
+**Clear requirements → Structured prompts → Implementation → Validation → Improvement**
 
-![Weer-Extremen space weather screens](https://raw.githubusercontent.com/cyberfirepulse/Android/main/ruimte-weer.png)
+### Explore the Tools
 
-[Explore the Android repository](https://github.com/cyberfirepulse/Android)
+| Project | Platform | Focus |
+| --- | --- | --- |
+| [CAMT — Cyber Advanced Threat Modeling Tool](https://github.com/cyberfirepulse/CAMT-Updates) | Windows & Linux | Cybersecurity analysis, threat modeling, threat intelligence, network analysis, and digital forensics. |
+| [Prompt Builder](https://github.com/cyberfirepulse/promptbuilder) | Windows | Design, reuse, and send structured AI prompts for technical work and education. |
+| [GUI Framework Tool](https://github.com/cyberfirepulse/GUIFrameworkTool) | Windows | Visually design desktop interfaces and generate Python, PowerShell, C#, or Java applications. |
+| [Podcast Studio](https://github.com/cyberfirepulse/podcaststudio) | Windows | Prepare, record, edit, and export podcasts, with speech-generation options. |
+| [OS-builder](https://github.com/cyberfirepulse/OS-builder) | Windows | Releases, installers, and update information for Snoop OS Builder. |
+| [Android Applications](https://github.com/cyberfirepulse/Android) | Android | CameraWeerCoach, BushCraft-Pro, and Weer-Extremen: photography, outdoor life, weather, and natural hazards. |
+
+Each project repository provides its own documentation, downloads, platform requirements, and licensing information.
+
+### Contact
+
+Questions about tools, evaluation licences, or support: [cyberfirepulse@gmail.com](mailto:cyberfirepulse@gmail.com)
 
 ---
 
-### Van Prompt Engineering naar functionele software
+## Nederlands
 
-**NEDERLANDS**
+CyberFirePulse brengt software voor cybersecurity, technisch onderwijs, ontwikkeling en creatief werk samen. Van mobiele applicaties tot desktoptools en platforms voor beveiligingsanalyse: praktische ideeën omzetten in bruikbare software staat centraal.
 
-## Innovatie door Prompt Engineering
+### Prompt Engineering als Leidraad
 
-CyberFirePulse onderzoekt hoe gestructureerde prompts, technische expertise en kritische evaluatie ideeën omzetten in functionele software. Prompt Engineering geeft richting aan de ontwikkeling. Menselijke controle, testen en stapsgewijze verbetering helpen om bruikbare en betrouwbare resultaten te bereiken.
+Ontwikkeling begint met een duidelijk doel. Prompt Engineering vertaalt ideeën, eisen en technische keuzes naar gestructureerde instructies voor AI-ondersteunde ontwikkeling. Menselijke expertise, kritische beoordeling, testen en stapsgewijze verfijning begeleiden het resultaat van concept naar werkende applicatie.
 
-### Android-applicaties
+**Heldere eisen → Gestructureerde prompts → Implementatie → Validatie → Verbetering**
 
-- **[CameraWeerCoach](https://github.com/cyberfirepulse/Android/tree/main/CameraWeerCoach)** — Fotografie, weer en educatieve hulpmiddelen.
-- **[BushCraft-Pro](https://github.com/cyberfirepulse/Android/tree/main/BushCraft-Pro)** — Bushcraft, buitenvaardigheden, navigatie en natuur.
-- **[Weer-Extremen](https://github.com/cyberfirepulse/Android/tree/main/Weer-Extremen)** — Extreem weer, natuurrampen en ruimteweer.
+### Ontdek de Tools
 
-#### Weer-Extremen
+| Project | Platform | Toepassing |
+| --- | --- | --- |
+| [CAMT — Cyber Advanced Threat Modeling Tool](https://github.com/cyberfirepulse/CAMT-Updates) | Windows & Linux | Cybersecurityanalyse, dreigingsmodellering, dreigingsinformatie, netwerkanalyse en digitale forensiek. |
+| [Prompt Builder](https://github.com/cyberfirepulse/promptbuilder) | Windows | Gestructureerde AI-prompts ontwerpen, hergebruiken en versturen voor technisch werk en onderwijs. |
+| [GUI Framework Tool](https://github.com/cyberfirepulse/GUIFrameworkTool) | Windows | Desktopinterfaces visueel ontwerpen en applicaties genereren in Python, PowerShell, C# of Java. |
+| [Podcast Studio](https://github.com/cyberfirepulse/podcaststudio) | Windows | Podcasts voorbereiden, opnemen, bewerken en exporteren, met mogelijkheden voor spraakgeneratie. |
+| [OS-builder](https://github.com/cyberfirepulse/OS-builder) | Windows | Releases, installatiebestanden en update-informatie voor Snoop OS Builder. |
+| [Android-applicaties](https://github.com/cyberfirepulse/Android) | Android | CameraWeerCoach, BushCraft-Pro en Weer-Extremen: fotografie, buitenleven, weer en natuurrampen. |
 
-![Ruimteweerschermen van Weer-Extremen](https://raw.githubusercontent.com/cyberfirepulse/Android/main/ruimte-weer.png)
+Elke projectrepository bevat de eigen documentatie, downloads, systeemeisen en licentie-informatie.
 
-[Bekijk de Android-repository](https://github.com/cyberfirepulse/Android)
+### Contact
+
+Vragen over tools, evaluatielicenties of ondersteuning: [cyberfirepulse@gmail.com](mailto:cyberfirepulse@gmail.com)
