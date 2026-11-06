@@ -48,7 +48,8 @@ Ontwikkeling begint met een duidelijk doel. Prompt Engineering vertaalt ideeën,
 | Project | Platform | Toepassing |
 | --- | --- | --- |
 | [CAMT — Cyber Advanced Threat Modeling Tool](https://github.com/cyberfirepulse/CAMT-Updates) | Windows & Linux | Cybersecurityanalyse, dreigingsmodellering, dreigingsinformatie, netwerkanalyse en digitale forensiek. |
-| [Prompt Builder](https://github.com/cyberfirepulse/promptbuilder) | Windows | Gestructureerde AI-prompts ontwerpen, hergebruiken en versturen voor technisch werk en onderwijs. |
+| [Prompt Builder](https://github.com/cyberfirepulse/promptbuilder) <img width="1370" height="926" alt="prompt" src="https://github.com/user-attachments/assets/2e125dfe-7c9f-4c2f-b840-998a174b1ad1" />
+| Windows | Gestructureerde AI-prompts ontwerpen, hergebruiken en versturen voor technisch werk en onderwijs. |
 | [GUI Framework Tool](https://github.com/cyberfirepulse/GUIFrameworkTool) | Windows | Desktopinterfaces visueel ontwerpen en applicaties genereren in Python, PowerShell, C# of Java. |
 | [Podcast Studio](https://github.com/cyberfirepulse/podcaststudio) | Windows | Podcasts voorbereiden, opnemen, bewerken en exporteren, met mogelijkheden voor spraakgeneratie. |
 | [OS-builder](https://github.com/cyberfirepulse/OS-builder) | Windows | Releases, installatiebestanden en update-informatie voor Snoop OS Builder. |
