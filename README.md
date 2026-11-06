@@ -1,4 +1,3 @@
-<img width="1370" height="1036" alt="camt" src="https://github.com/user-attachments/assets/b9c6366e-5c8e-404c-9e8e-a2da3b73cbaf" />
 <h1 align="center">CyberFirePulse</h1>
 
 <p align="center"><strong>Ideas. Structured Prompts. Practical Software.</strong></p>
@@ -30,20 +29,34 @@ Development starts with a clear purpose. Prompt Engineering translates ideas, re
 
 Each project repository provides its own documentation, downloads, platform requirements, and licensing information.
 
-### Featured: Prompt Builder
-<p align="center">
-  <a href="https://github.com/cyberfirepulse/camt-updates">
-    <img width="1370" height="1036" alt="camt" src="https://github.com/user-attachments/assets/6f7ebcc2-02c6-4402-98aa-871c7e78b23d" />
+### Screenshots
 
-  </a
-</p>
-<p align="center">
-  <a href="https://github.com/cyberfirepulse/promptbuilder">
-    <img src="https://github.com/user-attachments/assets/2e125dfe-7c9f-4c2f-b840-998a174b1ad1" alt="Prompt Builder application screenshot / Schermafbeelding van Prompt Builder" width="900">
-  </a>
-</p>
+<table>
+  <tr>
+    <th>CAMT · Windows &amp; Linux</th>
+    <th>CAMT · Windows &amp; Linux</th>
+    <th>Prompt Builder · Windows</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/user-attachments/assets/b9c6366e-5c8e-404c-9e8e-a2da3b73cbaf">
+        <img src="https://github.com/user-attachments/assets/b9c6366e-5c8e-404c-9e8e-a2da3b73cbaf" alt="CAMT screenshot 1" width="260">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/user-attachments/assets/6f7ebcc2-02c6-4402-98aa-871c7e78b23d">
+        <img src="https://github.com/user-attachments/assets/6f7ebcc2-02c6-4402-98aa-871c7e78b23d" alt="CAMT screenshot 2" width="260">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/user-attachments/assets/2e125dfe-7c9f-4c2f-b840-998a174b1ad1">
+        <img src="https://github.com/user-attachments/assets/2e125dfe-7c9f-4c2f-b840-998a174b1ad1" alt="Prompt Builder screenshot" width="260">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><em>Prompt Builder for Windows · Prompt Builder voor Windows</em></p>
+<p align="center"><em>Click an image to enlarge · Klik op een afbeelding om te vergroten</em></p>
 
 ### Contact
 
