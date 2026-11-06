@@ -34,7 +34,7 @@ Each project repository provides its own documentation, downloads, platform requ
 <table>
   <tr>
     <th>CAMT · Windows &amp; Linux</th>
-    <th>CAMT · Windows &amp; Linux</th>
+    <th>Gui_FrameWork Builder</th>
     <th>Prompt Builder · Windows</th>
   </tr>
   <tr>
